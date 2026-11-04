@@ -4,6 +4,6 @@
 
 Interested in Data Analysis:
 
-Currently learning Python, Data Science and others technologies
+Currently learning Python, Data Sciences and others technologies
 
 Building projects and developing my skills.
